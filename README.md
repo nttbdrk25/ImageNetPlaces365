@@ -52,3 +52,15 @@ If you use any material, please cite relevant works as follows.
   year         = {2009}
 }
 ```
+
+```
+@article{pamiZhouLKO018,
+  author    = {Bolei Zhou and {\`{A}}gata Lapedriza and Aditya Khosla and Aude Oliva and Antonio Torralba},
+  title     = {Places: {A} 10 Million Image Database for Scene Recognition},
+  journal   = {{IEEE} Trans. Pattern Anal. Mach. Intell.},
+  volume    = {40},
+  number    = {6},
+  pages     = {1452--1464},
+  year      = {2018}
+}
+```
