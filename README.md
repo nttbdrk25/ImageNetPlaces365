@@ -11,3 +11,4 @@ these subsets helps researchers to save the computational
 cost for the early network drafts.
 * It can be conducive to a good rate of a network draft on the
 large datasets if it is good on the rescaled subsets.
+# Rescaling explanation
