@@ -25,8 +25,8 @@ Note: Default is for ImageNet. Change *DataRescale = 'Places365'* in file *confi
 ```
 $ python Train_ImageNetRescaleSubsets.py #for training some CNN-based networks on the rescaled sub-datasets of ImageNet
 ```
-```
 or
+```
 $ python Train_Places365RescaleSubsets.py #for training some CNN-based networks on the rescaled sub-datasets of Places365
 ```
 # Related citations
