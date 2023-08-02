@@ -4,7 +4,7 @@ deep neural networks, eliminating them for a challenging tiny set will assist th
 proposals of networks can take a quick trial of verification. To this end, we propose
 an efficient rescaling method based on the validation outcomes of a pre-trained model.
 Firstly, it will take out the sensitive images of the lowest-accuracy classes of the validation
-outcomes. Each of such images is then considered to identity the classes that it was
+outcomes. Each of such images is then considered to identity which classes it was
 confused with. Experimental results for rescaling two popular large datasets (ImageNet
 and Places365) have proved that gathering the lowest-accuracy classes along with the
 most confused ones can product small subsets with more challenge for a quick validation
