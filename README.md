@@ -20,7 +20,7 @@ Retrieve rescaled subsets from the large datasets: ImageNet/Places365 by executi
 ```
 $ python RescaleDataset.py
 ```
-Note: Default is for ImageNet. Change *DataRescale == 'Places365'* in file *config_rescale.py* for Places365
+Note: Default is for ImageNet. Change *DataRescale = 'Places365'* in file *config_rescale.py* for Places365
 
 ```
 $ python Train_ImageNetRescaleSubsets.py #for training some CNN-based networks on the rescaled sub-datasets of ImageNet
