@@ -44,7 +44,7 @@ $ python Train_Places365RescaleSubsets.py
 |InceptionV4|48.48|49.24|49.67|50.77|51.81|80.00|49.34|50.00|51.92|
 |VGG16|51.13|51.48|52.72|54.30|54.85|75.20|52.50|52.24|55.24|
 # Related citations
-If you use any materials, please cite relevant works as follows.
+If you use any materials, please cite the following relevant works.
 ```
 @article{prlNguyen23,
   author       = {Thanh Tuan Nguyen and Thanh Phuong Nguyen},
