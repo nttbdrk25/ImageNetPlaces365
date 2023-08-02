@@ -15,6 +15,7 @@ cost for the early network drafts.
 large datasets if it is good on the rescaled subsets.
 # Rescaling explanations
 * Rescaled subsets of ImageNet: ReIN30, ReIN50, ReIN100, ReIN150, ReIN200 in folder: *Result_Rescaled_ImageNet*
+* Rescaled subsets of Places365: RePL30, RePL50 in folder: *Result_Rescaled_Places365*
 ```
 $ python RescaleDataset.py
 ```
