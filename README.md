@@ -38,6 +38,7 @@ $ python Train_Places365RescaleSubsets.py
 |MobileNetV1|46.53|50.08|52.48|55.84|56.47|70.60|51.53|50.28|53.50|
 |MobileNetV2|47.47|49.08|53.74|54.37|55.37|72.00|52.67|52.02|52.19|
 |MobileNetV3|49.87|51.68|54.06|55.56|55.72|71.50|52.33|51.68|53.53|
+|ShuffleNetV2|48.87|49.52|51.38|52.05|53.57|69.36|50.97|51.12|50.80|
 # Related citations
 If you use any material, please cite relevant works as follows.
 ```
