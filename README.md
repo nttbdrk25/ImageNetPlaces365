@@ -15,6 +15,7 @@ large datasets if it is good on the rescaled subsets.
 ```
 $ python RescaleDataset.py
 ```
+
 ```
 $ python Train_ImageNetRescaleSubsets.py #for training some CNN-based networks on the rescaled sub-datasets of ImageNet
 or
