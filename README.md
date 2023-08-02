@@ -13,7 +13,12 @@ cost for the early network drafts.
 large datasets if it is good on the rescaled subsets.
 # Rescaling explanations
 ```
-$ dfsd
+$ python RescaleDataset.py
+```
+```
+$ python Train_ImageNetRescaleSubsets.py #for training some CNN-based networks on the rescaled sub-datasets of ImageNet
+or
+$ python Train_Places365RescaleSubsets.py #for training some CNN-based networks on the rescaled sub-datasets of Places365
 ```
 # Related citations
 If you use any material, please cite relevant works as follows.
