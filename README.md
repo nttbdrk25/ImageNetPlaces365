@@ -12,6 +12,8 @@ cost for the early network drafts.
 * It can be conducive to a good rate of a network draft on the
 large datasets if it is good on the rescaled subsets.
 # Rescaling explanations
-
+```
+$
+```
 # Related citations
 If you use any material, please cite relevant works as follows.
