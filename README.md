@@ -13,7 +13,7 @@ cost for the early network drafts.
 large datasets if it is good on the rescaled subsets.
 # Rescaling explanations
 ```
-$dfsd
+$ dfsd
 ```
 # Related citations
 If you use any material, please cite relevant works as follows.
