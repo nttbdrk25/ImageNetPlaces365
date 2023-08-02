@@ -1,5 +1,5 @@
 # ImageNetPlaces365 (Rescaling large datasets)
-Abstract: The fact that several categories in a large dataset are not difficult to be recognized by
+{\bf Abstract:} The fact that several categories in a large dataset are not difficult to be recognized by
 deep neural networks, eliminating them for a challenging tiny set will assist that the early
 proposals of networks can take a quick trial of verification. To this end, we propose
 an efficient rescaling method based on the validation outcomes of a pre-trained model.
