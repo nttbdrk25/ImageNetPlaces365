@@ -14,4 +14,4 @@ large datasets if it is good on the rescaled subsets.
 # Rescaling explanations
 
 # Related citations
-If you use any material please cite relevant works as follows.
+If you use any material, please cite relevant works as follows.
