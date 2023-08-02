@@ -9,7 +9,7 @@ their confused classes would form a challenging tiny set.
 and Places365 to obtain their rescaled subsets.
 * Experimental results for image classification have validated
 the raised challenge of the rescaled subsets. Verifying on
-these subsets helps researchers to save the computational
+these subsets helps researchers to save time and the computational
 cost for the early network drafts.
 * It can be conducive to a good rate of a network draft on the
 large datasets if it is good on the rescaled subsets.
