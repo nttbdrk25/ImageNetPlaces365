@@ -33,6 +33,7 @@ $ python Train_Places365RescaleSubsets.py
 ```
 # Experimental results (initial)
 Network|ReIN30|ReIN50|ReIN100|ReIN150|ReIN20|ImageNet|RePL30 RePL50|Places365
+| ------------- | ------------- |
 # Related citations
 If you use any material, please cite relevant works as follows.
 ```
