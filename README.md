@@ -25,3 +25,12 @@ $ python Train_Places365RescaleSubsets.py #for training some CNN-based networks 
 ```
 # Related citations
 If you use any material, please cite relevant works as follows.
+```
+@inproceedings{cvprDengDSLL009,
+  author       = {Jia Deng and Wei Dong and Richard Socher and Li{-}Jia Li and Kai Li and Li Fei{-}Fei},
+  title        = {ImageNet: {A} large-scale hierarchical image database},
+  booktitle    = {CVPR},
+  pages        = {248--255},  
+  year         = {2009}
+}
+```
