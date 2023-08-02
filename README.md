@@ -16,9 +16,11 @@ large datasets if it is good on the rescaled subsets.
 # Rescaling explanations
 * Rescaled subsets of ImageNet: ReIN30, ReIN50, ReIN100, ReIN150, ReIN200 in folder: *Result_Rescaled_ImageNet*
 * Rescaled subsets of Places365: RePL30, RePL50 in folder: *Result_Rescaled_Places365*
+Retrieve rescaled subsets from the large datasets: ImageNet/Places365 by executing this command
 ```
 $ python RescaleDataset.py
 ```
+Note: Default is for ImageNet. Change *DataRescale == 'Places365'* in file *config_rescale.py* for Places365
 
 ```
 $ python Train_ImageNetRescaleSubsets.py #for training some CNN-based networks on the rescaled sub-datasets of ImageNet
