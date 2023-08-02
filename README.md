@@ -31,7 +31,7 @@ $ python Train_ImageNetRescaleSubsets.py
 ```
 $ python Train_Places365RescaleSubsets.py
 ```
-# Experimental results
+# Experimental results (initial)
 # Related citations
 If you use any material, please cite relevant works as follows.
 ```
