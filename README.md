@@ -41,6 +41,7 @@ $ python Train_Places365RescaleSubsets.py
 |ShuffleNetV2|48.87|49.52|51.38|52.05|53.57|69.36|50.97|51.12|50.80|
 |ResNet18|47.67|50.08|53.38|55.01|56.36|70.40|51.30|52.28|54.43|
 |GoogLeNet|44.40|48.92|49.90|51.36|53.20|68.30|50.80|50.62|53.63|
+|InceptionV4|48.48|49.24|49.67|50.77|51.81|80.00|49.34|50.00|51.92|
 # Related citations
 If you use any material, please cite relevant works as follows.
 ```
