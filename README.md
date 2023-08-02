@@ -26,6 +26,14 @@ $ python Train_Places365RescaleSubsets.py #for training some CNN-based networks 
 # Related citations
 If you use any material, please cite relevant works as follows.
 ```
+@article{apinNguyen23,
+  author       = {Thanh Tuan Nguyen and
+                  Thanh Phuong Nguyen and
+                  Vincent Nguyen},
+  title        = {A deformed bottleneck recalibration for accumulating global channel-wise features},
+  journal      = {Applied Intelligence},
+  note         = {(submitted in May 2023)}
+}
 @inproceedings{cvprDengDSLL009,
   author       = {Jia Deng and Wei Dong and Richard Socher and Li{-}Jia Li and Kai Li and Li Fei{-}Fei},
   title        = {ImageNet: {A} large-scale hierarchical image database},
