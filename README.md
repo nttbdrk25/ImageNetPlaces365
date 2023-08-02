@@ -22,12 +22,13 @@ $ python RescaleDataset.py
 ```
 Note: Default is for ImageNet. Change *DataRescale = 'Places365'* in file *config_rescale.py* for Places365
 
+* For training some CNN-based networks on the rescaled sub-datasets of ImageNet
 ```
-$ python Train_ImageNetRescaleSubsets.py #for training some CNN-based networks on the rescaled sub-datasets of ImageNet
+$ python Train_ImageNetRescaleSubsets.py
 ```
-or
+* or for training some CNN-based networks on the rescaled sub-datasets of Places365
 ```
-$ python Train_Places365RescaleSubsets.py #for training some CNN-based networks on the rescaled sub-datasets of Places365
+$ python Train_Places365RescaleSubsets.py
 ```
 # Related citations
 If you use any material, please cite relevant works as follows.
