@@ -1,3 +1,2 @@
-# ImageNetPlaces365
-Rescaling large datasets
+# ImageNetPlaces365 (Rescaling large datasets)
 # Abstract:
