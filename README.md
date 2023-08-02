@@ -1,5 +1,5 @@
 # ImageNetPlaces365 (Rescaling large datasets)
-**Abstract:
+**Abstract:**
 
 * Efficiently rescaling a large dataset by adapting statistical
 computation to the validation outcomes of a pre-trained network.
