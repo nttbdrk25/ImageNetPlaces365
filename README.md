@@ -26,6 +26,15 @@ $ python Train_Places365RescaleSubsets.py #for training some CNN-based networks 
 # Related citations
 If you use any material, please cite relevant works as follows.
 ```
+@article{prlNguyen23,
+  author       = {Thanh Tuan Nguyen and Thanh Phuong Nguyen},
+  title        = {Rescaling Large Datasets Based on Validation Outcomes of a Pre-trained Network},
+  journal      = {Pattern Recognition Letters},
+  note         = {(submitted in Aug 2023)}
+}
+```
+
+```
 @article{apinNguyen23,
   author       = {Thanh Tuan Nguyen and Thanh Phuong Nguyen and Vincent Nguyen},
   title        = {A deformed bottleneck recalibration for accumulating global channel-wise features},
