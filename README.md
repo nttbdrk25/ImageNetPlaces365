@@ -35,6 +35,7 @@ $ python Train_Places365RescaleSubsets.py
 |Network|ReIN<sup>30</sup>|ReIN<sup>50</sup>|ReIN<sup>100</sup>|ReIN<sup>150</sup>|ReIN<sup>200</sup>|ImageNet|RePL<sup>30</sup>|RePL<sup>50</sup>|Places365
 | ------------- | -------------: |-------------: | -------------: |-------------: | -------------: |-------------: | -------------: |-------------: | -------------: |
 |MAFNet|48.40|50.24|54.02|56.05|57.26|73.13|52.57|52.50|55.15|
+|MobileNetV1|46.53|50.08|52.48|55.84|56.47|70.60|51.53|50.28|53.50|
 # Related citations
 If you use any material, please cite relevant works as follows.
 ```
