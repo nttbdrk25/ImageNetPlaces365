@@ -14,7 +14,7 @@ cost for the early network drafts.
 * It can be conducive to a good rate of a network draft on the
 large datasets if it is good on the rescaled subsets.
 # Rescaling explanations
-* **Names of rescaled classes of ImageNet:** ReIN<sup>30</sup>(![RiIN30](Result_Rescaled_ImageNet/ReIN.txt)), ReIN<sup>50</sup>, ReIN<sup>100</sup>, ReIN<sup>150</sup>, and ReIN<sup>200</sup> in folder: *`Result_Rescaled_ImageNet`*
+* **Names of rescaled classes of ImageNet:** ReIN<sup>30</sup>(![ReIN30.txt](Result_Rescaled_ImageNet/ReIN30.txt)), ReIN<sup>50</sup>, ReIN<sup>100</sup>, ReIN<sup>150</sup>, and ReIN<sup>200</sup> in folder: *`Result_Rescaled_ImageNet`*
 ![List of rescaled subsets of ImageNet](Result_Rescaled_ImageNet/Rescaled_Subsets_ImageNet.pdf)
 * **Names of rescaled classes of Places365:** RePL<sup>30</sup> and RePL<sup>50</sup> in folder: *`Result_Rescaled_Places365`*
 ![List of rescaled subsets of Places365](Result_Rescaled_Places365/Rescaled_Subsets_Places365.pdf) 
