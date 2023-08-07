@@ -18,6 +18,7 @@ large datasets if it is good on the rescaled subsets.
 * **Names of rescaled classes of Places365:** RePL<sup>30</sup> and RePL<sup>50</sup> in folder: *`Result_Rescaled_Places365`*
 |Network|ReIN<sup>30</sup>|ReIN<sup>50</sup>|ReIN<sup>100</sup>|ReIN<sup>150</sup>|ReIN<sup>200</sup>|ImageNet|RePL<sup>30</sup>|RePL<sup>50</sup>|Places365
 | ------------- | -------------: |-------------: | -------------: |-------------: | -------------: |-------------: | -------------: |-------------: | -------------: |
+|MAFNet|48.40|50.24|54.02|56.05|57.26|73.13|52.57|52.50|55.15|
 * **Retrieve rescaled subsets from the large datasets ImageNet/Places365 by executing this command**
 ```
 $ python RescaleDataset.py
