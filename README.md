@@ -17,6 +17,7 @@ large datasets if it is good on the rescaled subsets.
 * **Names of rescaled classes of ImageNet:** ReIN<sup>30</sup>, ReIN<sup>50</sup>, ReIN<sup>100</sup>, ReIN<sup>150</sup>, and ReIN<sup>200</sup> in folder: *`Result_Rescaled_ImageNet`*
 * **Names of rescaled classes of Places365:** RePL<sup>30</sup> and RePL<sup>50</sup> in folder: *`Result_Rescaled_Places365`*
 
+<embed src="http://example.com/esult_Rescaled_ImageNet/Rescaled_Subsets_ImageNet.pdf" width="500" height="375" type="application/pdf">
 <embed src="Result_Rescaled_ImageNet/Rescaled_Subsets_ImageNet.pdf" width="1000" height="800" frameborder="0" allowfullscreen>
 
 * **Retrieve rescaled subsets from the large datasets ImageNet/Places365 by executing this command**
