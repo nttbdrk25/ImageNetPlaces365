@@ -52,7 +52,7 @@ If you use any materials, please cite the following relevant works.
   author       = {Thanh Tuan Nguyen and Thanh Phuong Nguyen},
   title        = {Rescaling Large Datasets Based on Validation Outcomes of a Pre-trained Network},
   journal      = {Pattern Recognition Letters},
-  note         = {(submitted in Aug 2023)}
+  note         = {(submitted in 2023)}
 }
 ```
 
