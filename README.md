@@ -81,9 +81,9 @@ If you use any materials, please cite the following relevant works.
 ```
 @article{apinNguyen23,
   author       = {Thanh Tuan Nguyen and Thanh Phuong Nguyen and Vincent Nguyen},
-  title        = {A deformed bottleneck recalibration for accumulating global channel-wise features},
-  journal      = {Applied Intelligence},
-  note         = {(submitted in May 2023)}
+  title        = {Accumulating global channel-wise features via deformed-bottleneck recalibration for MobileNet enhancement},
+  journal      = {Neurocomputing},
+  note         = {(submitted in 2023)}
 }
 ```
 
