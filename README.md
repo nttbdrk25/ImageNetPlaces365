@@ -79,11 +79,11 @@ If you use any materials, please cite the following relevant works.
 ```
 
 ```
-@article{neucoNguyen23,
+@article{paaNguyen24,
   author       = {Thanh Tuan Nguyen and Thanh Phuong Nguyen and Vincent Nguyen},
-  title        = {Accumulating global channel-wise features via deformed-bottleneck recalibration for MobileNet enhancement},
-  journal      = {Neurocomputing},
-  note         = {(submitted in 2023)}
+  title        = {Accumulating global channel-wise patterns via deformed-bottleneck recalibration},
+  journal      = {Pattern Analysis and Applications},
+  note         = {(submitted in 2024)}
 }
 ```
 
