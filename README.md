@@ -1,4 +1,4 @@
-# ImageNetPlaces365 (Rescaling large datasets)
+# ReINs and RePLs: Challenging small datasets rescaled from ImageNet and Places365
 **Abstract:**
 
 * Efficiently rescaling a large dataset by adapting statistical
