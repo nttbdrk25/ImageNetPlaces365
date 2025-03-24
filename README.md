@@ -83,7 +83,7 @@ If you use any materials, please cite the following relevant works.
   author       = {Thanh Tuan Nguyen and Thanh Phuong Nguyen and Vincent Nguyen},
   title        = {Accumulating global channel-wise patterns via deformed-bottleneck recalibration},
   journal      = {Pattern Analysis and Applications},
-  note         = {(submitted in 2024)}
+  note         = {(accepted in 2025)}
 }
 ```
 
