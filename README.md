@@ -84,9 +84,10 @@ If you use any materials, please cite the following relevant works.
 ```
 @article{paaNguyen24,
   author       = {Thanh Tuan Nguyen and Thanh Phuong Nguyen and Vincent Nguyen},
-  title        = {Accumulating global channel-wise patterns via deformed-bottleneck recalibration},
+  title        = {Accumulating global channel-wise patterns via deformed-bottleneck recalibration for image classification},
   journal      = {Pattern Analysis and Applications},
-  note         = {(accepted in 2025)}
+  volume       = {28},
+  year         = {2025}
 }
 ```
 
